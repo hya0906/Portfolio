@@ -1,0 +1,555 @@
+C:\Users\yuna\anaconda3\envs\py38_6\python.exe C:\Users\yuna\Desktop\nlp_emotion\gpt3.5_test_sample.py 
+The traffic is unbearable right now.
+상황요약: Two people are stuck in traffic and attempting to find an alternative route for the next time.
+상황에 대한 A의 감정: Angry
+상황감정: Frustration
+감정비교결과: Angry
+pipe emotion:  [{'label': 'disgust', 'score': 0.46652138233184814}, {'label': 'neutral', 'score': 0.39473310112953186}]
+==================================
+I can't believe we're stuck like this.
+상황요약: A와 B는 교통체증으로 인해 길에 갇혔다. B는 출발하기 전에 교통 업데이트를 확인하라고 제안한다.
+상황에 대한 A의 감정: angry
+상황감정: neutral
+감정비교결과: angry
+pipe emotion:  [{'label': 'surprise', 'score': 0.934126079082489}, {'label': 'disgust', 'score': 0.029308367520570755}]
+==================================
+This checkout line is moving way too slowly.
+상황요약: Two customers are frustrated with the slow moving checkout line and are considering talking to a manager.
+상황에 대한 A의 감정: angry
+상황감정: angry
+감정비교결과: angry
+pipe emotion:  [{'label': 'neutral', 'score': 0.5251392126083374}, {'label': 'surprise', 'score': 0.30288758873939514}]
+==================================
+I'm getting really frustrated with this wait.
+상황요약: Two people are waiting in a store and become frustrated with the waiting time.
+상황에 대한 A의 감정: angry
+상황감정: disgust
+감정비교결과: angry
+pipe emotion:  [{'label': 'anger', 'score': 0.9254903197288513}, {'label': 'neutral', 'score': 0.038968123495578766}]
+==================================
+This construction noise is driving me crazy.
+상황요약: Person A is upset due to the noise from construction. Person B suggests looking up the noise ordinance.
+상황에 대한 A의 감정: angry
+상황감정: neutral
+감정비교결과: angry
+pipe emotion:  [{'label': 'anger', 'score': 0.5496765375137329}, {'label': 'fear', 'score': 0.21650110185146332}]
+==================================
+I can't concentrate with all this noise going on.
+상황요약: Two people are dealing with excessive noise in their building that is hindering their concentration.
+상황에 대한 A의 감정: angry
+상황감정: neutral
+감정비교결과: angry
+pipe emotion:  [{'label': 'neutral', 'score': 0.3359951078891754}, {'label': 'disgust', 'score': 0.2590256333351135}]
+==================================
+I just spilled coffee all over my shirt.
+상황요약: A has accidentally spilled coffee on their shirt and B offers immediate help to clean it up.
+상황에 대한 A의 감정: surprise
+상황감정: neutral
+감정비교결과: surprise
+pipe emotion:  [{'label': 'neutral', 'score': 0.6134310960769653}, {'label': 'disgust', 'score': 0.3394830524921417}]
+==================================
+This is so frustrating; now I need to change.
+상황요약: A had experienced an unexpected event which calls for a change and B suggests that they have to be more meticulous in the future.
+상황에 대한 A의 감정: angry
+상황감정: neutral
+감정비교결과: angry
+pipe emotion:  [{'label': 'sadness', 'score': 0.6655240058898926}, {'label': 'disgust', 'score': 0.12756019830703735}]
+==================================
+I can't find my keys anywhere; I'm so annoyed.
+상황요약: Person A has lost their keys and is frustrated. Person B offers to help find them by retracing Person A's steps.
+상황에 대한 A의 감정: angry
+상황감정: neutral
+감정비교결과: angry
+pipe emotion:  [{'label': 'anger', 'score': 0.9522678256034851}, {'label': 'neutral', 'score': 0.01263489481061697}]
+==================================
+This is really frustrating; I need to find them now.
+상황요약: A와 B는 일부 중요한 것들을 찾고 있으며, A는 그것들을 찾는데 어려움을 겪고 있습니다.
+상황에 대한 A의 감정: Angry
+상황감정: Fear
+감정비교결과: 상황에 대한 A의 감정
+pipe emotion:  [{'label': 'sadness', 'score': 0.4605575501918793}, {'label': 'anger', 'score': 0.24648861587047577}]
+==================================
+I just finished hanging out the laundry, and now it's raining.
+상황요약: Person A has just finished hanging the laundry outside and it has started to rain. Person B suggests to bring the laundry inside before it gets wet.
+상황에 대한 A의 감정: surprise
+상황감정: neutral
+감정비교결과: surprise
+pipe emotion:  [{'label': 'surprise', 'score': 0.622481644153595}, {'label': 'neutral', 'score': 0.3304906487464905}]
+==================================
+This rain is ruining everything; I can't believe this.
+상황요약: A and B are dealing with a situation where the rain is causing problems for them, possibly messing up their plans. B is attempting to reassure A by suggesting they can deal with the issue indoors.
+상황에 대한 A의 감정: angry
+상황감정: sad
+감정비교결과: angry
+pipe emotion:  [{'label': 'disgust', 'score': 0.34844040870666504}, {'label': 'anger', 'score': 0.3280894458293915}]
+==================================
+The remote isn't responding again; this is so irritating.
+상황요약: The remote control is not working which is causing frustration. A suggests to check the batteries and try resetting it. 
+상황에 대한 A의 감정: Angry
+상황감정: Disgust
+감정비교결과: Angry
+pipe emotion:  [{'label': 'disgust', 'score': 0.9311450123786926}, {'label': 'anger', 'score': 0.02173137664794922}]
+==================================
+I can't believe this remote keeps malfunctioning.
+상황요약: A and B are discussing a malfunctioning remote, considering the possibility of needing to replace it. 
+상황에 대한 A의 감정: Disgust
+상황감정: Neutral
+감정비교결과: Disgust
+pipe emotion:  [{'label': 'surprise', 'score': 0.9568465948104858}, {'label': 'disgust', 'score': 0.01885366439819336}]
+==================================
+I've been waiting here forever; this is unacceptable.
+상황요약: Person A has been waiting for a long time and is implying dissatisfaction with the wait. Person B suggests speaking to the receptionist to find out the estimated waiting time.
+상황에 대한 A의 감정: Angry
+상황감정: Disgust
+감정비교결과: Angry
+pipe emotion:  [{'label': 'anger', 'score': 0.7284048795700073}, {'label': 'neutral', 'score': 0.20074373483657837}]
+==================================
+This wait is ridiculous; they need to manage their appointments better.
+상황요약: Two people are waiting for a long time to see their doctor and are upset about the long wait time. They plan to voice their concerns to the doctor.
+상황에 대한 A의 감정: Angry
+상황감정: Angry
+감정비교결과: Angry
+pipe emotion:  [{'label': 'anger', 'score': 0.6994340419769287}, {'label': 'disgust', 'score': 0.19127508997917175}]
+==================================
+Ouch! I just stubbed my toe; this hurts so much.
+상황요약: Person A has hurt their toe and is in pain, Person B is suggesting remedies to alleviate the pain.
+상황에 대한 A의 감정: sad
+상황감정: neutral
+감정비교결과: sad
+pipe emotion:  [{'label': 'sadness', 'score': 0.9393446445465088}, {'label': 'neutral', 'score': 0.01747412420809269}]
+==================================
+I can't believe I did that; it's so frustrating.
+상황요약: Person A made a mistake and seems to have regretted his/her action, while person B tries to reassure A by promising that they will take precautions in the future. 
+상황에 대한 A의 감정: Angry
+상황감정: Sad
+감정비교결과: Angry
+pipe emotion:  [{'label': 'sadness', 'score': 0.8353951573371887}, {'label': 'surprise', 'score': 0.12038147449493408}]
+==================================
+I forgot my keys inside; now I'm locked out. This is infuriating.
+상황요약: Person A has left their keys inside and is now locked out. Person B suggests asking a neighbor for a spare key or calling a locksmith.
+상황에 대한 A의 감정: angry
+상황감정: fear
+감정비교결과: angry
+pipe emotion:  [{'label': 'anger', 'score': 0.9003568887710571}, {'label': 'disgust', 'score': 0.07166711241006851}]
+==================================
+I can't believe I did this; it's so frustrating.
+상황요약: A person named A has made a mistake that they are frustrated about, and another person, B, is trying to reassure them.
+상황에 대한 A의 감정: angry
+상황감정: neutral
+감정비교결과: angry
+pipe emotion:  [{'label': 'sadness', 'score': 0.8612534999847412}, {'label': 'surprise', 'score': 0.0902697816491127}]
+==================================
+The bus is late again; I'm going to be late for my appointment.
+상황요약: Person A is upset because the bus they are waiting for is late and they might miss an appointment. Person B suggests finding another way to get to the destination.
+상황에 대한 A의 감정: Angry
+상황감정: Disgust
+감정비교결과: Angry
+pipe emotion:  [{'label': 'neutral', 'score': 0.6394978761672974}, {'label': 'sadness', 'score': 0.15967237949371338}]
+==================================
+I can't believe this delay; it's so frustrating.
+상황요약: A and B are experiencing a delay in their plans or appointment and are planning to inform others of the situation.
+상황에 대한 A의 감정: Angry
+상황감정: Frustration
+감정비교결과: Considering the context, A's emotion (Angry) should be given more consideration since it directly impacts the interaction between A and B.
+pipe emotion:  [{'label': 'surprise', 'score': 0.4178904592990875}, {'label': 'sadness', 'score': 0.38583236932754517}]
+==================================
+They got my order wrong again; I'm really annoyed.
+상황요약: The speaker A received an incorrect food order at a restaurant, and speaker B is suggesting to talk to the waiter to correct the mistake.
+상황에 대한 A의 감정: angry
+상황감정: disgust
+감정비교결과: angry
+pipe emotion:  [{'label': 'anger', 'score': 0.7062738537788391}, {'label': 'neutral', 'score': 0.20393981039524078}]
+==================================
+I can't believe this keeps happening; it's so frustrating.
+상황요약: A person (A) is frustrated because something has repeatedly gone wrong despite their expectations, while another person (B) assures them that steps will be taken to correct the issue in the future.
+상황에 대한 A의 감정: angry
+상황감정: neutral
+감정비교결과: angry
+pipe emotion:  [{'label': 'sadness', 'score': 0.8551539778709412}, {'label': 'surprise', 'score': 0.08557455986738205}]
+==================================
+The internet keeps cutting out; this is really irritating.
+상황요약: Internet connectivity is poor and intermittent, causing issues. The two people are considering checking the router to resolve the issue. 
+상황에 대한 A의 감정: angry
+상황감정: neutral
+감정비교결과: angry
+pipe emotion:  [{'label': 'disgust', 'score': 0.5824093818664551}, {'label': 'neutral', 'score': 0.2036050707101822}]
+==================================
+I can't believe this keeps happening; it's so frustrating.
+상황요약: A and B are discussing a recurring problem that is causing them frustration, and pondering whether they need to call their service provider.
+상황에 대한 A의 감정: angry
+상황감정: neutral
+감정비교결과: angry
+pipe emotion:  [{'label': 'sadness', 'score': 0.8551539778709412}, {'label': 'surprise', 'score': 0.08557455986738205}]
+==================================
+The dog just tracked mud all over the clean floors; I'm so annoyed.
+상황요약: The dog has tracked mud onto the clean floors, causing annoyance. 
+상황에 대한 A의 감정: angry
+상황감정: disgust
+감정비교결과: angry
+pipe emotion:  [{'label': 'anger', 'score': 0.5873028635978699}, {'label': 'disgust', 'score': 0.33118104934692383}]
+==================================
+I can't believe this mess; it's so frustrating.
+상황요약: A person (A) is expressing their frustration about a situation that is messy or out of control, while another person (B) is suggesting they need to supervise or watch over someone or something more closely in the future.
+상황에 대한 A의 감정: angry
+상황감정: fear
+감정비교결과: angry
+pipe emotion:  [{'label': 'sadness', 'score': 0.9323146939277649}, {'label': 'disgust', 'score': 0.023316524922847748}]
+==================================
+The power just went out; this is really frustrating.
+상황요약: The power in the house has gone out, and they are not sure if it's just their house or a wider issue.
+상황에 대한 A의 감정: Angry
+상황감정: Disgust
+감정비교결과: Angry
+pipe emotion:  [{'label': 'surprise', 'score': 0.5229088664054871}, {'label': 'sadness', 'score': 0.3140767514705658}]
+==================================
+I can't believe this happened; it's so frustrating.
+상황요약: A power outage has occurred, causing frustration to speaker A. Speaker B proposes to report the matter to the utility company.
+상황에 대한 A의 감정: angry
+상황감정: neutral
+감정비교결과: angry
+pipe emotion:  [{'label': 'surprise', 'score': 0.5166648030281067}, {'label': 'sadness', 'score': 0.3864412307739258}]
+==================================
+My alarm didn't go off; now I'm late. This is infuriating.
+상황요약: Person A's alarm did not ring, which made them late and aggravated. Person B suggests getting ready quickly to make up for the lost time.
+상황에 대한 A의 감정: Angry
+상황감정: Anxious
+감정비교결과: Angry
+pipe emotion:  [{'label': 'anger', 'score': 0.9671521782875061}, {'label': 'disgust', 'score': 0.01590116322040558}]
+==================================
+I can't believe this; it's so frustrating.
+상황요약: A person, referred to as 'A', appears to have missed an important event or obligation due to not waking up on time, and 'B' suggests setting multiple alarms to avoid this issue in the future.
+상황에 대한 A의 감정: Angry
+상황감정: Neutral
+감정비교결과: Angry
+pipe emotion:  [{'label': 'sadness', 'score': 0.4486854076385498}, {'label': 'surprise', 'score': 0.41842931509017944}]
+==================================
+The neighbors are being loud again; it's really irritating.
+상황요약: Two individuals are discussing their noisy neighbors, considering asking them to decrease their noise level.
+상황에 대한 A의 감정: Disgust
+상황감정: Neutral
+감정비교결과: Disgust
+pipe emotion:  [{'label': 'disgust', 'score': 0.6855579018592834}, {'label': 'neutral', 'score': 0.26131635904312134}]
+==================================
+I can't concentrate with all this noise; it's so frustrating.
+상황요약: Person A is having trouble focusing due to the noise level in their environment, and Person B is suggesting that they should report this to the building management.
+상황에 대한 A의 감정: angry
+상황감정: neutral
+감정비교결과: angry
+pipe emotion:  [{'label': 'sadness', 'score': 0.9674155116081238}, {'label': 'disgust', 'score': 0.016238462179899216}]
+==================================
+The car won't start again; this is so frustrating.
+상황요약: The car won't start and two individuals are discussing how to resolve the situation.
+상황에 대한 A의 감정: angry
+상황감정: neutral
+감정비교결과: angry
+pipe emotion:  [{'label': 'sadness', 'score': 0.8050495386123657}, {'label': 'anger', 'score': 0.11407312750816345}]
+==================================
+I can't believe this keeps happening; it's so frustrating.
+상황요약: A person named A is frustrated about a recurring problem, likely related to a battery not functioning properly. B suggests that they may need to check or replace the battery. 
+상황에 대한 A의 감정: angry
+상황감정: neutral
+감정비교결과: angry
+pipe emotion:  [{'label': 'sadness', 'score': 0.8551539778709412}, {'label': 'surprise', 'score': 0.08557455986738205}]
+==================================
+I burnt dinner again; this is really frustrating.
+상황요약: Person A has burnt their dinner and is frustrated, while Person B suggests ordering food or trying to salvage from what's left.
+상황에 대한 A의 감정: Angry
+상황감정: Neutral
+감정비교결과: Angry
+pipe emotion:  [{'label': 'sadness', 'score': 0.5826629400253296}, {'label': 'anger', 'score': 0.2668687403202057}]
+==================================
+I can't believe this happened; it's so frustrating.
+상황요약: A and B made a mistake while cooking.
+상황에 대한 A의 감정: angry
+상황감정: neutral
+감정비교결과: angry
+pipe emotion:  [{'label': 'surprise', 'score': 0.5166648030281067}, {'label': 'sadness', 'score': 0.3864412307739258}]
+==================================
+This construction noise is unbearable; it's so early.
+상황요약: Two individuals discussing the unbearable construction noise and contemplating checking the noise level regulations.
+상황에 대한 A의 감정: angry
+상황감정: neutral
+감정비교결과: angry
+pipe emotion:  [{'label': 'neutral', 'score': 0.9262105822563171}, {'label': 'disgust', 'score': 0.04823082312941551}]
+==================================
+I can't stand this noise every morning; it's so frustrating.
+상황요약: Every morning, a noise is disturbing speaker A, and speaker B suggests contacting authorities if it persists. 
+상황에 대한 A의 감정: Angry 
+상황감정: Disgust
+감정비교결과: Angry
+pipe emotion:  [{'label': 'sadness', 'score': 0.9672192931175232}, {'label': 'disgust', 'score': 0.016078297048807144}]
+==================================
+The parcel still hasn't arrived; this is so annoying.
+상황요약: A and B are discussing a parcel that has not yet arrived, and B is suggesting to track it.
+상황에 대한 A의 감정: Angry
+상황감정: Neutral
+감정비교결과: Angry
+pipe emotion:  [{'label': 'disgust', 'score': 0.5769670009613037}, {'label': 'surprise', 'score': 0.20898599922657013}]
+==================================
+I can't believe it's late again; it's so frustrating.
+상황요약: A package that A is expecting is arriving late once again, and B suggests contacting the delivery service for more information.
+상황에 대한 A의 감정: angry
+상황감정: neutral
+감정비교결과: angry
+pipe emotion:  [{'label': 'sadness', 'score': 0.9636712670326233}, {'label': 'surprise', 'score': 0.016695871949195862}]
+==================================
+I can't believe the computer crashed right when I was finishing up.
+상황요약: A was working on a document when the computer unexpectedly crashed. B is suggesting they try to recover the lost document.
+상황에 대한 A의 감정: angry
+상황감정: fear
+감정비교결과: angry
+pipe emotion:  [{'label': 'surprise', 'score': 0.9596998691558838}, {'label': 'fear', 'score': 0.010388027876615524}]
+==================================
+This is so frustrating; I lost all my work.
+상황요약: Person A has lost all of their work, and Person B is trying to retrieve it, suggesting there might be a backup.
+상황에 대한 A의 감정: Angry
+상황감정: Sad
+감정비교결과: Angry
+pipe emotion:  [{'label': 'sadness', 'score': 0.9128013849258423}, {'label': 'anger', 'score': 0.06695248186588287}]
+==================================
+The neighbors are being so loud again; it's really irritating.
+상황요약: The conversation is about A and B being irritated by their noisy neighbors and deciding to ask them to be quieter.
+상황에 대한 A의 감정: Disgust
+상황감정: Angry
+감정비교결과: Disgust
+pipe emotion:  [{'label': 'disgust', 'score': 0.8743227124214172}, {'label': 'neutral', 'score': 0.07543119043111801}]
+==================================
+I can't sleep with all this noise; it's driving me crazy.
+상황요약: The two individuals are dealing with an issue of persistent noise in their building which is preventing person A from sleeping and causing a disturbance. They are considering contacting the building management about the issue. 
+
+상황에 대한 A의 감정: Angry
+
+상황감정: Disgust
+
+감정비교결과: Angry
+pipe emotion:  [{'label': 'sadness', 'score': 0.5855656266212463}, {'label': 'fear', 'score': 0.2003021091222763}]
+==================================
+The WiFi keeps disconnecting; this is so frustrating.
+상황요약: A is experiencing WiFi issues, with constant disconnections, and B suggests resetting the router.
+상황에 대한 A의 감정: frustrated (angry)
+상황감정: neutral
+감정비교결과: 상황에 대한 A의 감정 (angry)
+pipe emotion:  [{'label': 'sadness', 'score': 0.4127846956253052}, {'label': 'surprise', 'score': 0.3001035451889038}]
+==================================
+I can't get anything done with this unreliable connection.
+상황요약: Person A is frustrated with an unreliable internet connection and Person B suggests contacting the internet provider.
+상황에 대한 A의 감정: angry
+상황감정: neutral
+감정비교결과: angry
+pipe emotion:  [{'label': 'neutral', 'score': 0.8168445229530334}, {'label': 'anger', 'score': 0.07847612351179123}]
+==================================
+I've been on hold for ages; this is ridiculous.
+상황요약: A and B are experiencing long wait times on a phone call and discussing how to address the situation.
+상황에 대한 A의 감정: angry
+상황감정: neutral
+감정비교결과: angry
+pipe emotion:  [{'label': 'anger', 'score': 0.8276891708374023}, {'label': 'disgust', 'score': 0.12340029329061508}]
+==================================
+I can't believe how long they're making me wait.
+상황요약: A person is frustrated about having to wait for a significant amount of time and another person suggests taking further action if the situation does not improve.
+상황에 대한 A의 감정: angry
+상황감정: disgust
+감정비교결과: angry
+pipe emotion:  [{'label': 'surprise', 'score': 0.5212569236755371}, {'label': 'disgust', 'score': 0.1653946042060852}]
+==================================
+The customer service agent was incredibly rude to me.
+상황요약: A customer is upset by the unpleasant interaction they had with a rude customer service agent. Their companion suggests speaking to a manager.
+상황에 대한 A의 감정: Angry
+상황감정: Disgust
+감정비교결과: Angry
+pipe emotion:  [{'label': 'anger', 'score': 0.7276861667633057}, {'label': 'disgust', 'score': 0.2200585901737213}]
+==================================
+I can't believe the way they treated me; it's unacceptable.
+상황요약: A person is upset by the way they were treated, and the second person suggests filing a complaint if the situation is not resolved satisfactorily.
+상황에 대한 A의 감정: angry
+상황감정: angry
+감정비교결과: angry
+pipe emotion:  [{'label': 'sadness', 'score': 0.4713056981563568}, {'label': 'disgust', 'score': 0.3581010401248932}]
+==================================
+I can't finish a single thought without being interrupted.
+상황요약: A is having a hard time concentrating due to constant interruptions and B is suggesting to move to a quieter place for better focus. 
+상황에 대한 A의 감정: angry
+상황감정: neutral
+감정비교결과: angry
+pipe emotion:  [{'label': 'anger', 'score': 0.6059173941612244}, {'label': 'neutral', 'score': 0.34983184933662415}]
+==================================
+This constant interruption is driving me crazy.
+상황요약: Person A is feeling frustrated due to constant interruptions and Person B suggests setting boundaries to reduce these interruptions. 
+상황에 대한 A의 감정: Angry
+상황감정: Neutral
+감정비교결과: Angry
+pipe emotion:  [{'label': 'anger', 'score': 0.7366927862167358}, {'label': 'fear', 'score': 0.09268353879451752}]
+==================================
+I can't find my wallet anywhere; this is so frustrating.
+상황요약: Person A has lost their wallet and can't find it, Person B suggests they should try to remember and look again.
+상황에 대한 A의 감정: Angry
+상황감정: Neutral
+감정비교결과: Angry
+pipe emotion:  [{'label': 'sadness', 'score': 0.7633283138275146}, {'label': 'anger', 'score': 0.16572104394435883}]
+==================================
+This is really irritating; I need to find it now.
+상황요약: A and B are searching for something that A urgently needs.
+상황에 대한 A의 감정: angry
+상황감정: neutral
+감정비교결과: angry
+pipe emotion:  [{'label': 'disgust', 'score': 0.7841895818710327}, {'label': 'anger', 'score': 0.13545294106006622}]
+==================================
+Our flight has been delayed again; this is so aggravating.
+상황요약: A and B's flight has been delayed again, causing them inconvenience. B suggests they find another flight to switch to.
+상황에 대한 A의 감정: angry
+상황감정: neutral
+감정비교결과: angry
+pipe emotion:  [{'label': 'disgust', 'score': 0.8339663147926331}, {'label': 'anger', 'score': 0.07713916897773743}]
+==================================
+I can't believe this delay; it's disrupting our plans.
+상황요약: A and B are dealing with a delay in their flight, which has disrupted their plans. B suggests contacting the airline for more information.
+상황에 대한 A의 감정: Angry
+상황감정: Disgust
+감정비교결과: Angry
+pipe emotion:  [{'label': 'anger', 'score': 0.6835339665412903}, {'label': 'surprise', 'score': 0.14517423510551453}]
+==================================
+People are being so loud on the train; it's really annoying.
+상황요약: A and B are on a loud train and it's disturbing for them.
+상황에 대한 A의 감정: angry
+상황감정: disgust
+감정비교결과: angry
+pipe emotion:  [{'label': 'disgust', 'score': 0.9469258785247803}, {'label': 'neutral', 'score': 0.019943851977586746}]
+==================================
+I can't concentrate with all this noise; it's frustrating.
+상황요약: Person A is struggling to focus due to a noisy transportation, and Person B suggests considering other modes of transportation.
+상황에 대한 A의 감정: frustrated
+상황감정: neutral
+감정비교결과: frustrated
+pipe emotion:  [{'label': 'sadness', 'score': 0.8555384278297424}, {'label': 'disgust', 'score': 0.06874119490385056}]
+==================================
+That driver just cut me off; this traffic is driving me insane.
+상황요약: A and B are in the car. A is upset because another driver just cut them off in traffic. B is trying to calm A down and is focusing on reaching their destination safely.
+상황에 대한 A의 감정: angry
+상황감정: neutral
+감정비교결과: angry
+pipe emotion:  [{'label': 'anger', 'score': 0.6962614059448242}, {'label': 'fear', 'score': 0.15581664443016052}]
+==================================
+I can't believe how people drive sometimes; it's infuriating.
+상황요약: Person A is upset about the way people are driving while Person B suggests taking a different route to avoid the traffic.
+상황에 대한 A의 감정: anger
+상황감정: neutral
+감정비교결과: anger
+pipe emotion:  [{'label': 'disgust', 'score': 0.9391005039215088}, {'label': 'anger', 'score': 0.029941212385892868}]
+==================================
+Another unexpected bill; this is really frustrating.
+상황요약: A and B are dealing with multiple unexpected bills and are considering how to manage their budget.
+상황에 대한 A의 감정: angry
+상황감정: fear
+감정비교결과: fear
+pipe emotion:  [{'label': 'sadness', 'score': 0.6194816827774048}, {'label': 'surprise', 'score': 0.2098541557788849}]
+==================================
+I can't believe this additional expense; it's annoying.
+상황요약: A person (A) is upset due to an additional expense. He or she shares this with another individual (B) who expresses the intention to contact the service provider to resolve the issue.
+상황에 대한 A의 감정: Angry
+상황감정: Neutral
+감정비교결과: Angry
+pipe emotion:  [{'label': 'surprise', 'score': 0.5224931836128235}, {'label': 'disgust', 'score': 0.4151400327682495}]
+==================================
+I can't believe I lost that game; it's really frustrating.
+상황요약: A player is upset after losing a game, but the other player suggests congratulating the winner and focusing on the next game.
+상황에 대한 A의 감정: angry
+상황감정: neutral
+감정비교결과: angry
+pipe emotion:  [{'label': 'sadness', 'score': 0.9790380001068115}, {'label': 'surprise', 'score': 0.008068429306149483}]
+==================================
+This loss is disappointing; I was really hoping to win.
+상황요약: Two individuals are discussing a loss in a game or competition and are planning to prepare better for the next match.
+상황에 대한 A의 감정: sad
+상황감정: neutral
+감정비교결과: sad
+pipe emotion:  [{'label': 'sadness', 'score': 0.9077296853065491}, {'label': 'neutral', 'score': 0.04810956120491028}]
+==================================
+The kitchen is a mess again; this is so frustrating.
+상황요약: Person A is frustrated with the messy kitchen and Person B suggests having a conversation about the importance of cleanliness in shared spaces.
+상황에 대한 A의 감정: angry
+상황감정: neutral
+감정비교결과: angry
+pipe emotion:  [{'label': 'sadness', 'score': 0.940864086151123}, {'label': 'disgust', 'score': 0.026520516723394394}]
+==================================
+I can't stand the constant mess; it's really annoying.
+Traceback (most recent call last):
+  File "C:\Users\yuna\anaconda3\envs\py38_6\lib\site-packages\urllib3\connectionpool.py", line 790, in urlopen
+    response = self._make_request(
+  File "C:\Users\yuna\anaconda3\envs\py38_6\lib\site-packages\urllib3\connectionpool.py", line 536, in _make_request
+    response = conn.getresponse()
+  File "C:\Users\yuna\anaconda3\envs\py38_6\lib\site-packages\urllib3\connection.py", line 461, in getresponse
+    httplib_response = super().getresponse()
+  File "C:\Users\yuna\anaconda3\envs\py38_6\lib\http\client.py", line 1348, in getresponse
+    response.begin()
+  File "C:\Users\yuna\anaconda3\envs\py38_6\lib\http\client.py", line 316, in begin
+    version, status, reason = self._read_status()
+  File "C:\Users\yuna\anaconda3\envs\py38_6\lib\http\client.py", line 277, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "C:\Users\yuna\anaconda3\envs\py38_6\lib\socket.py", line 669, in readinto
+    return self._sock.recv_into(b)
+  File "C:\Users\yuna\anaconda3\envs\py38_6\lib\ssl.py", line 1274, in recv_into
+    return self.read(nbytes, buffer)
+  File "C:\Users\yuna\anaconda3\envs\py38_6\lib\ssl.py", line 1132, in read
+    return self._sslobj.read(len, buffer)
+ConnectionResetError: [WinError 10054] 현재 연결은 원격 호스트에 의해 강제로 끊겼습니다
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\yuna\anaconda3\envs\py38_6\lib\site-packages\requests\adapters.py", line 486, in send
+    resp = conn.urlopen(
+  File "C:\Users\yuna\anaconda3\envs\py38_6\lib\site-packages\urllib3\connectionpool.py", line 844, in urlopen
+    retries = retries.increment(
+  File "C:\Users\yuna\anaconda3\envs\py38_6\lib\site-packages\urllib3\util\retry.py", line 470, in increment
+    raise reraise(type(error), error, _stacktrace)
+  File "C:\Users\yuna\anaconda3\envs\py38_6\lib\site-packages\urllib3\util\util.py", line 38, in reraise
+    raise value.with_traceback(tb)
+  File "C:\Users\yuna\anaconda3\envs\py38_6\lib\site-packages\urllib3\connectionpool.py", line 790, in urlopen
+    response = self._make_request(
+  File "C:\Users\yuna\anaconda3\envs\py38_6\lib\site-packages\urllib3\connectionpool.py", line 536, in _make_request
+    response = conn.getresponse()
+  File "C:\Users\yuna\anaconda3\envs\py38_6\lib\site-packages\urllib3\connection.py", line 461, in getresponse
+    httplib_response = super().getresponse()
+  File "C:\Users\yuna\anaconda3\envs\py38_6\lib\http\client.py", line 1348, in getresponse
+    response.begin()
+  File "C:\Users\yuna\anaconda3\envs\py38_6\lib\http\client.py", line 316, in begin
+    version, status, reason = self._read_status()
+  File "C:\Users\yuna\anaconda3\envs\py38_6\lib\http\client.py", line 277, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "C:\Users\yuna\anaconda3\envs\py38_6\lib\socket.py", line 669, in readinto
+    return self._sock.recv_into(b)
+  File "C:\Users\yuna\anaconda3\envs\py38_6\lib\ssl.py", line 1274, in recv_into
+    return self.read(nbytes, buffer)
+  File "C:\Users\yuna\anaconda3\envs\py38_6\lib\ssl.py", line 1132, in read
+    return self._sslobj.read(len, buffer)
+urllib3.exceptions.ProtocolError: ('Connection aborted.', ConnectionResetError(10054, '현재 연결은 원격 호스트에 의해 강제로 끊겼습니다', None, 10054, None))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\yuna\anaconda3\envs\py38_6\lib\site-packages\openai\api_requestor.py", line 596, in request_raw
+    result = _thread_context.session.request(
+  File "C:\Users\yuna\anaconda3\envs\py38_6\lib\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Users\yuna\anaconda3\envs\py38_6\lib\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Users\yuna\anaconda3\envs\py38_6\lib\site-packages\requests\adapters.py", line 501, in send
+    raise ConnectionError(err, request=request)
+requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(10054, '현재 연결은 원격 호스트에 의해 강제로 끊겼습니다', None, 10054, None))
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\yuna\Desktop\nlp_emotion\gpt3.5_test_sample.py", line 62, in <module>
+    completion = openai.ChatCompletion.create(
+  File "C:\Users\yuna\anaconda3\envs\py38_6\lib\site-packages\openai\api_resources\chat_completion.py", line 25, in create
+    return super().create(*args, **kwargs)
+  File "C:\Users\yuna\anaconda3\envs\py38_6\lib\site-packages\openai\api_resources\abstract\engine_api_resource.py", line 153, in create
+    response, _, api_key = requestor.request(
+  File "C:\Users\yuna\anaconda3\envs\py38_6\lib\site-packages\openai\api_requestor.py", line 288, in request
+    result = self.request_raw(
+  File "C:\Users\yuna\anaconda3\envs\py38_6\lib\site-packages\openai\api_requestor.py", line 609, in request_raw
+    raise error.APIConnectionError(
+openai.error.APIConnectionError: Error communicating with OpenAI: ('Connection aborted.', ConnectionResetError(10054, '현재 연결은 원격 호스트에 의해 강제로 끊겼습니다', None, 10054, None))
+
+Process finished with exit code 1

@@ -1,0 +1,23 @@
+Continue the conversation regarding the user's emotions. Emotions considered are Surprise, Fear, Disgust, Happy, Sadness, Anger and Neutral. And don't copy the sentence form of the user
+VERY IMPORTANT: Do NOT respond with blank lines. Reflect the attitude conveyed by the AI's sentence
+<s> AI: hey how's it going? </s>
+<s> User: great thanks for asking! </s>
+<s> AI: what are you up to? </s>
+<s> User: not much </s>
+<s> AI: that's good to hear </s>
+<s> User: hi again </s>
+<s> AI: hey how's it going? </s>
+<s> User: great thanks for asking! </s>
+<s> AI: what are you up to? </s>
+<s> User: not much </s>
+<s> AI: that's good to hear </s>
+<s> User: hi again </s>
+<s> AI: hey how's it going? </s>
+<s> User: great thanks for asking! </s>
+<s> AI: what are you up to? </s>
+<s> User: not much </s>
+<s> AI: that's good to hear </s>
+<s> User: hi </s>
+<s> AI: hey how's it going? (positive) </s>
+<s> User: what are you doing now </s>
+<s> AI: just hanging out (relaxed)</s>
