@@ -1,0 +1,11 @@
+NVIDIA GeForce RTX 2080 Ti
+gpu 2개
+
+tensorflow, keras 설치 안함.
+python == 3.8
+cuda == 10.1
+cudnn == 7.6.5
+opencv == 4.6.0
+protobuf == 3.20.2
+onnxruntime_gpu == 1.8
+
